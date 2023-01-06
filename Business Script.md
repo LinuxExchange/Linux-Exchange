@@ -7,7 +7,7 @@ Cryptocurrency exchanges are also entering a tumultuous period not just in the U
 
 
 
-Introducing the features for Linux Exchange. 
+##Introducing the features for Linux Exchange. 
 
 
 "Spot trading" 
@@ -31,7 +31,7 @@ Staking functionality which integrates with the non-fungible tokens (NFT) of Lin
 
 
 
-Benefits of Linux pet NFT
+##Benefits of Linux pet NFT
 
 
 "Staking platform (Linux Farmhouse)"
@@ -44,7 +44,7 @@ Total supply of the pets on mint is set at 10,000 pets. Rarity of the NFTs are c
 
 
 
-Tokenomics
+##Tokenomics
 
 
 The total supply of the Linux tokens ($LIX) : 100 million.
@@ -61,7 +61,7 @@ Buy and sell fees :
 
 
 
-Socials
+##Socials
 
 
 Stay up to update with our official social accounts and join us on the telegram group, with more announcements still to come.
