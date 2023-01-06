@@ -47,8 +47,8 @@ Total supply of the pets on mint is set at 10,000 pets. Rarity of the NFTs are c
 ## Roadmap
 <img width="960" alt="Roadmap_Linux" src="https://user-images.githubusercontent.com/122026691/211118560-ad120a8f-452e-4ae3-b8c5-e297de331dd4.png">
 
-> ## Audit
-[LinuxExchange_Audit_TechRate.pdf](https://github.com/LinuxExchange/Linux-Exchange/files/10364161/LinuxExchange_Audit_TechRate.pdf)
+## Audit
+Introducing TechRate Audit report [LinuxExchange_Audit_TechRate.pdf](https://github.com/LinuxExchange/Linux-Exchange/files/10364161/LinuxExchange_Audit_TechRate.pdf)
 
 
 ## Tokenomics
