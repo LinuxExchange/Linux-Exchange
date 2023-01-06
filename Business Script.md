@@ -10,7 +10,7 @@ Cryptocurrency exchanges are also entering a tumultuous period not just in the U
 ## Introducing the features for Linux Exchange 
 
 
-**"Spot trading"** 
+> **"Spot trading"** 
 Spot markets include sellers, buyers and order books. Sellers make an order with a specific ask or sell price, and buyers place an order for any cryptocurrency token with a particular bid or purchase price. The fees here at Linux Exchange stands at 0.1% per trade.
 
 
@@ -66,14 +66,14 @@ Buy and sell fees :
 
 Stay up to update with our official social accounts and join us on the telegram group, with more announcements still to come.
 
-**Telegram : https://t.me/LinuxExchange_LIX
+**Telegram : https://t.me/LinuxExchange_LIX**
 
-**Twitter : https://twitter.com/LINUX_LIX
+**Twitter : https://twitter.com/LINUX_LIX**
 
-**Website : https://linux-exchange.com/
+**Website : https://linux-exchange.com/**
 
-**Instagram : https://www.instagram.com/linuxexchange/
+**Instagram : https://www.instagram.com/linuxexchange/**
 
-**Tik Tok : https://www.tiktok.com/@linuxexchange?lang=en
+**Tik Tok : https://www.tiktok.com/@linuxexchange?lang=en**
 
-**All social links in one: https://linktr.ee/linuxExchange
+**All social links in one: https://linktr.ee/linuxExchange**
