@@ -44,8 +44,12 @@ Staking of the NFT on the exchange gets you varying returns. The pets are catego
 Total supply of the pets on mint is set at 10,000 pets. Rarity of the NFTs are classified onto 4 stages(Common, Un-common, rare & super rare). Rarity of the pets are also solely based on their breeds and also their combination of its accessories that it carries. Traders can also buy/sell their pets according to its intrinsic value. Minting price is still to be announced.
 
 
+## Roadmap
+<img width="960" alt="Roadmap_Linux" src="https://user-images.githubusercontent.com/122026691/211118560-ad120a8f-452e-4ae3-b8c5-e297de331dd4.png">
+
 
 ## Tokenomics
+
 
 
 The total supply of the Linux tokens ($LIX) : 100 million.
