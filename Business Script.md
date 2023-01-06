@@ -7,26 +7,26 @@ Cryptocurrency exchanges are also entering a tumultuous period not just in the U
 
 
 
-## Introducing the features for Linux Exchange. 
+## Introducing the features for Linux Exchange 
 
 
-"Spot trading" 
+**"Spot trading"** 
 Spot markets include sellers, buyers and order books. Sellers make an order with a specific ask or sell price, and buyers place an order for any cryptocurrency token with a particular bid or purchase price. The fees here at Linux Exchange stands at 0.1% per trade.
 
 
-"Futures Trading"
+**"Futures Trading"**
 Futures trading refers to a method of speculating on the price of assets, including cryptocurrencies, without actually owning them. Like commodity or stock futures, cryptocurrency futures enable traders to get in on a digital currency’s future price. Max leverage is currently capped at 50x.
 
 
-"Demo Account"
+**"Demo Account"**
 Demo Account feature is able to let investors try their hands on trading and get familiarize with our trading engine. Trading by itself is already a very dauting task even for the experienced proffessional. We have decided to launch this feature to hopefully and eventually get the investors to be onboarded with our exchange for the foreseeable future.
 
 
-"Weekly Trading Challenge"
+**"Weekly Trading Challenge"**
 To engage and encourage traders. There would be a weekly trading challenge which enables us to build a connection with the investors and traders alike. One of the concept for the challenge is that, those with the highest trading profits by rank, gets the prize. For a start, we are featuring the popular “Prop Firm challenge” (Limited to 10 pairs). Linux Tokens ($LIX) are also up for grabs as well. 
 
 
-"Staking"
+**"Staking"**
 Staking functionality which integrates with the non-fungible tokens (NFT) of Linux. Users are able to purchase the exclusive Linux pet NFT to attain an APY of 105% of their returns. Every user can only strictly purchase up to a maximum of 3 pets on their accounts. The returns are also stackable.
 
 
@@ -34,12 +34,12 @@ Staking functionality which integrates with the non-fungible tokens (NFT) of Lin
 ## Benefits of Linux pet NFT
 
 
-"Staking platform (Linux Farmhouse)"
+**"Staking platform (Linux Farmhouse)"**
 Benefits for holding the Linux pets NFT, gets you lower trading fees. The trading fees would be a gradual linear timeline distribution starting from a percentile of 0.00167% daily to upwards of 60days. After the 60days period, investors are able to enjoy Zero Transaction fee trading.
 Staking of the NFT on the exchange gets you varying returns. The pets are categorized based on their in-different rarity & breeds. The Linux pets can be fed with it’s very own Linux-Snacks which is another fun and simple way for the holders of the pets to increase their staking returns.
 
 
-"Total Linux NFT circulation/collection"
+**"Total Linux NFT circulation/collection"**
 Total supply of the pets on mint is set at 10,000 pets. Rarity of the NFTs are classified onto 4 stages(Common, Un-common, rare & super rare). Rarity of the pets are also solely based on their breeds and also their combination of its accessories that it carries. Traders can also buy/sell their pets according to its intrinsic value. Minting price is still to be announced.
 
 
@@ -66,14 +66,14 @@ Buy and sell fees :
 
 Stay up to update with our official social accounts and join us on the telegram group, with more announcements still to come.
 
-Telegram : https://t.me/LinuxExchange_LIX
+**Telegram : https://t.me/LinuxExchange_LIX
 
-Twitter : https://twitter.com/LINUX_LIX
+**Twitter : https://twitter.com/LINUX_LIX
 
-Website : https://linux-exchange.com/
+**Website : https://linux-exchange.com/
 
-Instagram : https://www.instagram.com/linuxexchange/
+**Instagram : https://www.instagram.com/linuxexchange/
 
-Tik Tok : https://www.tiktok.com/@linuxexchange?lang=en
+**Tik Tok : https://www.tiktok.com/@linuxexchange?lang=en
 
-All social links in one: https://linktr.ee/linuxExchange
+**All social links in one: https://linktr.ee/linuxExchange
