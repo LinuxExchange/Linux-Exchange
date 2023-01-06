@@ -1,5 +1,5 @@
 # Linux-Exchange
-![this is an image] ![Linux logo](https://user-images.githubusercontent.com/122026691/211118450-2d9f2ddb-e701-4aaf-8ed7-aedd1ebbaf71.jpg)
+![Linux logo](https://user-images.githubusercontent.com/122026691/211118450-2d9f2ddb-e701-4aaf-8ed7-aedd1ebbaf71.jpg)
 
 
 Due to rising mainstream popularity and awareness of cryptocurrencies, owning and trading cryptocurrency has never been easier. We are a cryptocurrency project that is creating an exciting, innovative and extraordinary trading exchange which is birth with the goal of combining and linking investors to an interactive exchange that also features non-fungible tokens (NFT). This is just part of an eco-system which allows investors to have a seamless and an experience apart of the usual run of the mill exchanges.
