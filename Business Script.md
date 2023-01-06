@@ -1,5 +1,5 @@
 # Linux-Exchange
-
+![this is an image] 
 
 Due to rising mainstream popularity and awareness of cryptocurrencies, owning and trading cryptocurrency has never been easier. We are a cryptocurrency project that is creating an exciting, innovative and extraordinary trading exchange which is birth with the goal of combining and linking investors to an interactive exchange that also features non-fungible tokens (NFT). This is just part of an eco-system which allows investors to have a seamless and an experience apart of the usual run of the mill exchanges.
 
