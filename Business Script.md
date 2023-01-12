@@ -2,46 +2,46 @@
 ![Linux logo](https://user-images.githubusercontent.com/122026691/211118450-2d9f2ddb-e701-4aaf-8ed7-aedd1ebbaf71.jpg)
 
 
-Due to rising mainstream popularity and awareness of cryptocurrencies, owning and trading cryptocurrency has never been easier. We are a cryptocurrency project that is creating an exciting, innovative and extraordinary trading exchange which is birth with the goal of combining and linking investors to an interactive exchange that also features non-fungible tokens (NFT). This is just part of an eco-system which allows investors to have a seamless and an experience apart of the usual run of the mill exchanges.
+由于加密货币的主流知名度和意识不断提高，拥有和交易加密货币从未如此简单。我们是一个加密货币项目，正在创建一个令人兴奋、创新和非凡的交易交易所，其诞生的目标是将投资者与具有不可替代代币 (NFT) 功能的交互式交易所结合和联系起来。这只是生态系统的一部分，它允许投资者拥有与普通交易所不同的无缝体验。
 
-Cryptocurrency exchanges are also entering a tumultuous period not just in the United States of America but apparently, the whole entire world. When cryptos enters the global market, there were requirements for exchanging which is just the same as going for a holiday and heading over to the money exchanger. With this came the rise of many major cryptocurrency exchanges that came into existence. So, people had difficulties finding the best crypto exchanges. Here in 2023, Linux aims to have a suite of applications which investors are able to have a premium sense of not just trading but also having that edge which allows them to stay beyond the hectic and sometimes stressful trading environment. 
-
-
-
-## Introducing the features for Linux Exchange 
+加密货币交易所也进入了一个动荡时期，不仅在美国，而且显然在整个世界。当加密货币进入全球市场时，就存在兑换需求，这就像去度假并前往货币兑换商一样。随之而来的是出现了许多主要的加密货币交易所。因此，人们很难找到最好的加密货币交易所。到 2023 年，Linux 的目标是拥有一套应用程序，投资者不仅可以在交易中获得高级感，还可以拥有让他们远离繁忙且有时压力很大的交易环境的优势。
 
 
-> ***"Spot trading"*** 
-Spot markets include sellers, buyers and order books. Sellers make an order with a specific ask or sell price, and buyers place an order for any cryptocurrency token with a particular bid or purchase price. The fees here at Linux Exchange stands at 0.1% per trade.
+
+## 介绍 Linux Exchange 的功能 
 
 
-> ***"Futures Trading"***
-Futures trading refers to a method of speculating on the price of assets, including cryptocurrencies, without actually owning them. Like commodity or stock futures, cryptocurrency futures enable traders to get in on a digital currency’s future price. Max leverage is currently capped at 50x.
+> ***"现货交易"*** 
+现货市场包括卖家、买家和订单簿。卖家以特定的要价或卖价下订单，而买家以特定的出价或购买价格下订单购买任何加密货币代币。 Linux Exchange 的费用为每笔交易 0.1%。
 
 
-> ***"Demo Account"***
-Demo Account feature is able to let investors try their hands on trading and get familiarize with our trading engine. Trading by itself is already a very dauting task even for the experienced proffessional. We have decided to launch this feature to hopefully and eventually get the investors to be onboarded with our exchange for the foreseeable future.
+> ***"期货交易"***
+期货交易是指一种在不实际拥有资产（包括加密货币）的情况下推测其价格的方法。与商品或股票期货一样，加密货币期货使交易者能够了解数字货币的未来价格。最大杠杆目前上限为 50 倍。
 
 
-> ***"Weekly Trading Challenge"***
-To engage and encourage traders. There would be a weekly trading challenge which enables us to build a connection with the investors and traders alike. One of the concept for the challenge is that, those with the highest trading profits by rank, gets the prize. For a start, we are featuring the popular “Prop Firm challenge” (Limited to 10 pairs). Linux Tokens ($LIX) are also up for grabs as well. 
+> ***"模拟账户"***
+模拟账户功能可以让投资者尝试交易并熟悉我们的交易引擎。即使对于经验丰富的专业人士来说，交易本身已经是一项非常艰巨的任务。我们已决定推出此功能，希望并最终让投资者在可预见的未来加入我们的交易所。
 
 
-> ***"Staking"***
-Staking functionality which integrates with the non-fungible tokens (NFT) of Linux. Users are able to purchase the exclusive Linux pet NFT to attain an APY of 105% of their returns. Every user can only strictly purchase up to a maximum of 3 pets on their accounts. The returns are also stackable.
+> ***"每周交易挑战"***
+吸引和鼓励交易者。每周都会有一次交易挑战，这使我们能够与投资者和交易员等建立联系。挑战的概念之一是，排名最高的交易利润者将获得奖励。首先，我们推出了流行的“Prop Firm challenge”（限 10 对）。 Linux 代币 ($LIX) 也可以抢购。
+
+
+> ***"质押"***
+与 Linux 的不可替代令牌 (NFT) 集成的质押功能。用户可以购买专属的 Linux 宠物 NFT，获得 105% 的年化收益率。每个用户只能在他们的账户上严格购买最多 3 只宠物。退货也是可堆叠的。
 
 
 
 ## Benefits of Linux pet NFT
 
 
-***"Staking platform (Linux Farmhouse)"***
-Benefits for holding the Linux pets NFT, gets you lower trading fees. The trading fees would be a gradual linear timeline distribution starting from a percentile of 0.00167% daily to upwards of 60days. After the 60days period, investors are able to enjoy Zero Transaction fee trading.
-Staking of the NFT on the exchange gets you varying returns. The pets are categorized based on their in-different rarity & breeds. The Linux pets can be fed with it’s very own Linux-Snacks which is another fun and simple way for the holders of the pets to increase their staking returns.
+***"质押平台（Linux Farmhouse）"***
+持有 Linux 宠物 NFT 的好处，让您获得更低的交易费用。交易费用将从每天 0.00167% 的百分位开始到超过 60 天，呈渐进线性时间线分布。 60天后，投资者可享受零手续费交易。
+在交易所质押 NFT 可以获得不同的回报。宠物根据其不同的稀有性和品种进行分类。 Linux 宠物可以用它自己的 Linux-Snacks 喂养，这是宠物持有人增加抵押回报的另一种有趣而简单的方法。
 
 
-***"Total Linux NFT circulation/collection"***
-Total supply of the pets on mint is set at 10,000 pets. Rarity of the NFTs are classified onto 4 stages(Common, Un-common, rare & super rare). Rarity of the pets are also solely based on their breeds and also their combination of its accessories that it carries. Traders can also buy/sell their pets according to its intrinsic value. Minting price is still to be announced.
+***"Linux NFT 总流通量/收藏量"***
+薄荷宠物的总供应量设定为 10,000 只。 NFT 的稀有度分为 4 个阶段（普通、非普通、稀有和超级稀有）。宠物的稀有性也完全基于它们的品种及其所携带配件的组合。交易者还可以根据其内在价值买卖宠物。铸造价格仍有待公布。
 
 
 ## Roadmap
@@ -51,28 +51,23 @@ Total supply of the pets on mint is set at 10,000 pets. Rarity of the NFTs are c
 Introducing TechRate Audit report [LinuxExchange_Audit_TechRate.pdf](https://github.com/LinuxExchange/Linux-Exchange/files/10364161/LinuxExchange_Audit_TechRate.pdf)
 
 
-## Tokenomics
+## 代币经济学Linux 代币 ($LIX) 的总供应量：1 亿。
+
+每个钱包的最大代币：200 万个代币（供应量的 2%）
+
+买卖费用：
+
+1% 用于燃烧/流动性
+
+1% 用于营销/合作伙伴关系
+
+4% 用于交易所的发展
 
 
-
-The total supply of the Linux tokens ($LIX) : 100 million.
-
-Maximum token per wallet : 2million tokens (2% of the supply)
-
-Buy and sell fees :
-
-1% goes to burning / Liquidity
-
-1% goes to marketing / partnerships
-
-4% goes to the development of the exchange
+## 社交
 
 
-
-## Socials
-
-
-Stay up to update with our official social accounts and join us on the telegram group, with more announcements still to come.
+随时关注我们的官方社交账号并加入我们的电报群，更多公告即将发布。
 
 **Telegram : https://t.me/LinuxExchange_LIX**
 
